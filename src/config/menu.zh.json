@@ -1,0 +1,12 @@
+{
+  "main": [
+    { "name": "首页", "url": "/" },
+    { "name": "关于我们", "url": "/about" },
+    { "name": "开源项目", "url": "https://github.com/orgs/cultivaroot" },
+    { "name": "文档", "url": "/blog" }
+  ],
+  "footer": [
+    { "name": "开源项目", "url": "https://github.com/orgs/cultivaroot" },
+    { "name": "隐私政策", "url": "/privacy-policy" }
+  ]
+}

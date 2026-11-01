@@ -1,0 +1,68 @@
+{
+  "site": {
+    "title": "Cultivaroot",
+    "base_url": "https://cultivaroot.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "",
+    "logo": "",
+    "logo_darkmode": "",
+    "logo_width": "150",
+    "logo_height": "30",
+    "logo_text": "Cultivaroot"
+  },
+
+  "settings": {
+    "search": false,
+    "sticky_header": true,
+    "theme_switcher": false,
+    "default_theme": "system",
+    "pagination": 2,
+    "summary_length": 200,
+    "blog_folder": "blog",
+    "default_language": "en",
+    "disable_languages": [],
+    "default_language_in_subdir": false
+  },
+
+  "announcement": {
+    "enable": false,
+    "expire_days": 7
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2026 Cultivaroot. Open cultivation intelligence."
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "GitHub",
+    "link": "https://github.com/orgs/cultivaroot"
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+
+  "disqus": {
+    "enable": false,
+    "shortname": "",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "Cultivaroot",
+    "meta_image": "/images/cultivaroot-hero.svg",
+    "meta_description": "Open-source cultivation automation for connected growing environments."
+  },
+
+  "llms": {
+    "generate_llms_txt": true,
+    "generate_llms_full_txt": true,
+    "generate_individual_md": true,
+    "include": [],
+    "exclude": []
+  }
+}

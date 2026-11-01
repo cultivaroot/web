@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Abstract cultivation environment illustration">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d5c48"/><stop offset="1" stop-color="#8bcf79"/></linearGradient></defs>
+  <rect width="900" height="600" rx="36" fill="#0b1713"/>
+  <path d="M450 500C450 335 520 250 665 155M450 500C450 330 365 250 225 165" fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M450 365c-90-95-218-44-190 59 106 6 163-42 190-59ZM450 290c14-130 155-164 207-74-72 79-155 83-207 74Z" fill="#8bcf79"/>
+  <circle cx="450" cy="500" r="24" fill="#e1ffcf"/><circle cx="665" cy="155" r="16" fill="#e1ffcf"/><circle cx="225" cy="165" r="16" fill="#e1ffcf"/>
+  <path d="M115 475h150M635 475h150" stroke="#2f6b55" stroke-width="4" stroke-dasharray="10 14"/>
+</svg>

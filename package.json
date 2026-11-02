@@ -1,8 +1,8 @@
 {
-  "name": "astroplate-multilingual",
-  "version": "6.2.1",
-  "description": "Astro and Tailwindcss Multilingual boilerplate",
-  "author": "zeon.studio",
+  "name": "@cultivaroot/web",
+  "version": "0.1.0",
+  "description": "Multilingual website for Cultivaroot's open-source cultivation automation ecosystem.",
+  "author": "Cultivaroot",
   "license": "MIT",
   "type": "module",
   "packageManager": "pnpm@11.8.0",

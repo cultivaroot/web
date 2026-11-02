@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "为好奇而务实的种植者而构建"
+description: "Cultivaroot 与种植者、创客和 Home Assistant 社区共同以开放方式成长。"
 
 # Testimonials
 testimonials:

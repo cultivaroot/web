@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "Ce que disent les utilisateurs d'Astroplate"
-description: "Ne vous contentez pas de nous croire sur parole - écoutez certains de nos utilisateurs satisfaits ! Consultez quelques-uns de nos témoignages ci-dessous pour voir ce que les autres disent à propos d'Astroplate."
+title: "Conçu pour les cultivateurs curieux et pragmatiques"
+description: "Cultivaroot se construit ouvertement avec les cultivateurs, les makers et la communauté Home Assistant."
 
 # Testimonials
 testimonials:

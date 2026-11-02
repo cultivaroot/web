@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Commencer maintenant"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://github.com/orgs/cultivaroot"
 
   - title: "Les principales raisons de choisir Astro pour votre prochain projet"
     image: "/images/service-3.png"

@@ -33,7 +33,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://github.com/orgs/cultivaroot"
 
   - title: "Open software. Compatible hardware."
     image: "/images/cultivaroot-hero.svg"

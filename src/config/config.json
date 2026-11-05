@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Cultivaroot",
+    "title": "CultivaRoot",
     "base_url": "https://cultivaroot.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -9,7 +9,7 @@
     "logo_darkmode": "",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Cultivaroot"
+    "logo_text": "CultivaRoot"
   },
 
   "settings": {
@@ -32,7 +32,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "© 2026 Cultivaroot. Open cultivation intelligence."
+    "copyright": "© 2026 CultivaRoot. Open cultivation intelligence."
   },
 
   "navigation_button": {
@@ -53,7 +53,7 @@
   },
 
   "metadata": {
-    "meta_author": "Cultivaroot",
+    "meta_author": "CultivaRoot",
     "meta_image": "/images/cultivaroot-hero.svg",
     "meta_description": "Open-source cultivation automation for connected growing environments."
   },

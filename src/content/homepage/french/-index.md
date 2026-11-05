@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "L'intelligence ouverte pour des environnements de culture plus sains"
-  content: "Cultivaroot relie des logiciels open source à Home Assistant pour aider les cultivateurs à observer et ajuster température, humidité, solution nutritive et lumière."
+  content: "CultivaRoot relie des logiciels open source à Home Assistant pour aider les cultivateurs à observer et ajuster température, humidité, solution nutritive et lumière."
   image: "/images/cultivaroot-hero.svg"
   button:
     enable: true

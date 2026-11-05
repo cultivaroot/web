@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Conçu pour les cultivateurs curieux et pragmatiques"
-description: "Cultivaroot se construit ouvertement avec les cultivateurs, les makers et la communauté Home Assistant."
+description: "CultivaRoot se construit ouvertement avec les cultivateurs, les makers et la communauté Home Assistant."
 
 # Testimonials
 testimonials:

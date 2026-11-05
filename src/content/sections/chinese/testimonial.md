@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "为好奇而务实的种植者而构建"
-description: "Cultivaroot 与种植者、创客和 Home Assistant 社区共同以开放方式成长。"
+description: "CultivaRoot 与种植者、创客和 Home Assistant 社区共同以开放方式成长。"
 
 # Testimonials
 testimonials:

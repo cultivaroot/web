@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Built for curious, practical growers"
-description: "Cultivaroot is being shaped in the open with growers, makers, and the Home Assistant community."
+description: "CultivaRoot is being shaped in the open with growers, makers, and the Home Assistant community."
 
 # Testimonials
 testimonials:

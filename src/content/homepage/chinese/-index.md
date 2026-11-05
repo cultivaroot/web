@@ -1,7 +1,7 @@
 ---
 banner:
   title: "用开放智能，打造更健康的种植环境"
-  content: "Cultivaroot 将开源软件与 Home Assistant 连接，帮助种植者观察并调节温度、湿度、营养液和光照环境。"
+  content: "CultivaRoot 将开源软件与 Home Assistant 连接，帮助种植者观察并调节温度、湿度、营养液和光照环境。"
   image: "/images/cultivaroot-hero.svg"
   button:
     enable: true
@@ -20,7 +20,7 @@ features:
     button: { enable: false, label: "", link: "" }
   - title: "开放软件，兼容硬件"
     image: "/images/cultivaroot-hero.svg"
-    content: "Cultivaroot 为希望获得实用、透明控制能力的种植者开发开源软件与兼容硬件。"
+    content: "CultivaRoot 为希望获得实用、透明控制能力的种植者开发开源软件与兼容硬件。"
     bulletpoints: ["开源生态系统", "隐私友好、本地优先", "模块化、可维修的系统"]
     button: { enable: true, label: "查看组织", link: "https://github.com/orgs/cultivaroot" }
 ---

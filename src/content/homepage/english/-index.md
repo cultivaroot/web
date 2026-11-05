@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Open intelligence for healthier growing environments"
-  content: "Cultivaroot connects open-source software with Home Assistant to help growers observe and tune temperature, humidity, nutrient solution, light, and more."
+  content: "CultivaRoot connects open-source software with Home Assistant to help growers observe and tune temperature, humidity, nutrient solution, light, and more."
   image: "/images/cultivaroot-hero.svg"
   button:
     enable: true
@@ -37,7 +37,7 @@ features:
 
   - title: "Open software. Compatible hardware."
     image: "/images/cultivaroot-hero.svg"
-    content: "Cultivaroot develops open software and compatible hardware for practical, transparent growing control."
+    content: "CultivaRoot develops open software and compatible hardware for practical, transparent growing control."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
